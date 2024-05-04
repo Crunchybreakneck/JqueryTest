@@ -4,3 +4,8 @@ body {
   padding: 25px;
   font-family: sans-serif;
 }
+
+.altBackground {
+background: #fff;
+  color: #000;
+}
