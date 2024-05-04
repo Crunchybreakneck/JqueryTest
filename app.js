@@ -4,6 +4,6 @@ $('#background').click(function(){
 $( ".header" ).append( "<p>Test</p>" );
 });
   $(".text").mouseenter(function(){
-  alert("You found the text!");
+  alert("Your cursor is aligned with the text!");
 });
 });
